@@ -1,0 +1,8 @@
+---
+# defaults file for rails-postgresql
+psql_version: 9.4
+psql_repo: 'deb http://apt.postgresql.org/pub/repos/apt/ xenial-pgdg main'
+psql_url: https://www.postgresql.org/media/keys/ACCC4CF8.asc
+dbname: demodb
+dbuser: demouser
+dbpassword: demopass
