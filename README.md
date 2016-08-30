@@ -10,7 +10,7 @@ Role Variables
 --------------
 defaults/main.yml
 
-psql_version: 9.4
+psql_version: 9.6
 psql_repo: 'deb http://apt.postgresql.org/pub/repos/apt/ xenial-pgdg main'
 psql_url: https://www.postgresql.org/media/keys/ACCC4CF8.asc
 dbname: demodb
